@@ -95,6 +95,6 @@ class Quiz:
 
         print(f"Quiz complete! Your score is {self.calc_score()}")
 
-# Create an instance of the Quiz class and start the quiz
+
 quiz_instance = Quiz()
 quiz_instance.start_quiz()
